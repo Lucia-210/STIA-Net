@@ -1,2 +1,2 @@
-# MTIA-Net
- Multi-Branch Network with Temporal Interaction and Adaptive Branch Weighting for Multitemporal PolSAR Land Cover Classification
+# STIA-Net
+ STIA-Net: A Scattering-Transition Interaction and Coherence-Aware Network for Trustworthy Multitemporal PolSAR Classification
